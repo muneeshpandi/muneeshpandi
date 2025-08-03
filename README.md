@@ -7,7 +7,8 @@
 
 ---
 
-🔧 **About Me**
+### **About Me**
+
 - 🔭 DevOps Engineer with **8+ years** of experience and deep expertise in:
     - ☁️ Cloud platforms: **AWS**, **GCP**, **Azure**
     - 🛠️ Tools: **Terraform**, **Terragrunt**, **Ansible**, **CloudFormation**
@@ -27,7 +28,7 @@
 
 ---
 
-🛠️ **Tech Stack**
+### **Tech Stack**
 
 - ☁️ **Cloud**: AWS, GCP, Azure, DigitalOcean, Linode
 - ⚙️ **CI/CD**: GitHub Actions, GitLab CI, Jenkins, ArgoCD
@@ -39,22 +40,24 @@
 
 ---
 
-📊 **GitHub Stats**
+### **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400px" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="420px" height="200px" />
 </p>
+
 ---
 
-🚀 **Certifications**
+### **Certifications**
+
 - ✅ AWS Certified Solutions Architect – Associate
 - ✅ Certified Kubernetes Administrator (CKA)
 - ✅ HashiCorp Certified: Terraform Associate
 
 ---
 
-📫 **Connect with me**
+### **Connect with me**
 
 * LinkedIn : https://www.linkedin.com/in/muneeshduraipandi/
 * Email : `muneeshcareers@gmail.com`
@@ -62,4 +65,4 @@
 
 ---
 
-🔍 *“Infrastructure should be scalable, repeatable, and boring. If it's exciting, it probably needs automation.”*
+🔍 `Infrastructure should be scalable, repeatable, and boring. If it's exciting, it probably needs automation.`
