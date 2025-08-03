@@ -57,10 +57,9 @@
 
 📫 **Connect with me**
 
-<p>
-  <a href="https://www.linkedin.com/in/muneeshduraipandi/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:muneeshcareers.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-</p>
+* LinkedIn : https://www.linkedin.com/in/muneeshduraipandi/
+* Email : muneeshcareers@gmail.com
+* StackOverflow: https://stackoverflow.com/users/11775512/muneeshpandi
 
 ---
 
