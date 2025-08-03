@@ -58,7 +58,7 @@
 📫 **Connect with me**
 
 * LinkedIn : https://www.linkedin.com/in/muneeshduraipandi/
-* Email : muneeshcareers@gmail.com
+* Email : `muneeshcareers@gmail.com`
 * StackOverflow: https://stackoverflow.com/users/11775512/muneeshpandi
 
 ---
